@@ -140,10 +140,7 @@ const _divmod = (a, b) => {
 const Wrap = styled.div`
   margin: 50px 0;
 `;
-const CarouselContent = styled.div`
-  width: 90%;
-  overflow: hidden;
-`;
+
 const CarouselContainer = styled.div`
   display: flex;
 `;
